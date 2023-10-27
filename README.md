@@ -6,7 +6,6 @@ Welcome to the Quiz Game, a website that tests your knowledge in various subject
 
 1. [Getting Started](#getting-started)
    - [Prerequisites](#prerequisites)
-   - [Installation](#installation)
 2. [Features](#features)
 3. [How to Play](#how-to-play)
 4. [Score Tracking](#score-tracking)
@@ -23,10 +22,7 @@ To use the Quiz Game website, you'll need:
 - A modern web browser (Google Chrome, Mozilla Firefox, Safari, or Microsoft Edge).
 - An active internet connection.
 
-### Installation
-
-Simply visit our website at [insert-website-url-here] and you're ready to start playing! There's no need to install any additional software.
-
+![Gif demo](/gif/quiz-game.gif)
 ## Features
 
 Our Quiz Game website comes with several exciting features:
@@ -37,19 +33,15 @@ Our Quiz Game website comes with several exciting features:
 
 ## How to Play
 
-1. Visit our website at [insert-website-url-here].
-2. Sign up or log in with your account.
-3. Choose a quiz category that interests you.
-4. Answer the multiple-choice questions to the best of your knowledge.
-5. Submit your answers and see your score at the end of the quiz.
+1. Visit our website at [quizz-game].
+2. Choose a quiz category that interests you.
+3. Answer the multiple-choice questions to the best of your knowledge.
+4. Submit your answers and see your score at the end of the quiz.
 
 ## Score Tracking
 
 Your scores for each quiz will be saved, allowing you to track your performance over time. To access your scores, log in to your account and visit the "My Scores" section.
 
-## Leaderboard
-
-Think you're the Quiz Master? Check the leaderboard to see where you stand compared to other players. The leaderboard displays the top scores from users worldwide.
 
 ## Contributing
 
